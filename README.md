@@ -7,3 +7,5 @@ Visit https://tag-along-app.herokuapp.com/ to view demo of realtime location map
 - React
 - MobX
 - MapBox
+
+As seen on https://blog.codeship.com/realtime-with-react-and-rails
